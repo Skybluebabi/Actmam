@@ -1,0 +1,51 @@
+.first{
+position: absolute;
+    font-family: Arial, sans-serif;
+    background-color:pink;
+    display: flex;
+    top: 600px;
+    width: 120px;
+    height: 400px;
+    left: 0px;
+}
+
+.Devion{
+      position: absolute;
+    color: black;
+    font-size: 15px;
+    top: center;
+    left: 280px;
+}
+.Professy{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120%;
+    height: 45px;
+    
+
+}
+.
+.ambot{
+position: absolute;
+    font-family: Arial, sans-serif;
+    background-color: pink;
+    display: flex;
+    top: 600px;
+    width: 120px;
+    height: 400px;
+    left: 0px;  
+}
+.content{
+  background-color: pink;
+}
+
+
+.ehheh{
+  position: absolute;
+    top: 0;
+    left:450px;
+    width: 120%;
+    height: 45px;
+  
+}
